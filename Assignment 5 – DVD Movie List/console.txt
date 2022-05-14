@@ -1,0 +1,2 @@
+Enter the name of the input file (input.txt for default): input.txt
+Enter the name of the output file (output.txt for default): output.txt

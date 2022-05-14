@@ -1,7 +1,5 @@
 **************************************************
 * PROGRAMMED BY : Justin Gea
-* STUDENT ID    : 1221198
-* CLASS         : CS1B - MW: 7:30p - 9:50p
 * ASSIGNMENT #5 : DVD Movie List
 **************************************************
 
